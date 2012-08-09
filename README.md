@@ -1,4 +1,12 @@
-firstbanco-chef-jscoverage
-==========================
+Description
+===========
 
-Chef cookbook for installing jscoverage
+Requirements
+============
+
+Attributes
+==========
+
+Usage
+=====
+
